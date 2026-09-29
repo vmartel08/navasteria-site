@@ -1,0 +1,7 @@
+# Calepin runtime/build cache
+src/.calepin/
+src/.calepin-entry.*
+
+# Windows
+Thumbs.db
+Desktop.ini

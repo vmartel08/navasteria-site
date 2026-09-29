@@ -1,0 +1,23 @@
+title = "Navasteria"
+description = "Maritime training and professional skippering."
+base-url = "https://www.navasteria.com"
+
+theme = "academic"
+
+output-dir = "../public"
+
+pdf = false
+default-language = "en"
+
+[languages.en]
+label = "English"
+content-dir = "."
+
+[static]
+include = ["assets/**"]
+
+[footer]
+
+[[footer.item]]
+target = "mailto:info@navasteria.com"
+label = "info@navasteria.com"

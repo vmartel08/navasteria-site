@@ -1,0 +1,12 @@
+{
+  "outputs": [
+    ".calepin/favicon.svg",
+    "404.html",
+    "404.typ",
+    "index.html",
+    "index.typ",
+    "llms.txt",
+    "robots.txt",
+    "sitemap.xml"
+  ]
+}
